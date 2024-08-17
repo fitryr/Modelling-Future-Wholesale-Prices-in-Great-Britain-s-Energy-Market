@@ -1,4 +1,4 @@
 # Modelling-Future-Wholesale-Prices-in-Great-Britain-s-Energy-Market
 Modelling Future Wholesale Prices in Great Britain’s Energy Market
 
-This code use PyPSA-GB model to model future wholesale energy market, this python codes conducted for dissertation Master degree MSc Sustainable Energy System, The University of Edinburgh.
+This Python code utilizes the PyPSA-GB model to simulate the future wholesale energy market. It was developed as part of a Master's dissertation for the MSc in Sustainable Energy Systems program at The University of Edinburgh.
